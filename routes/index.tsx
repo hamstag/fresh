@@ -11,6 +11,7 @@ export default function Home() {
       <p class="my-6">
         Welcome Hamstag
       </p>
+      <p>add new line</p>
       <Counter start={3} />
     </div>
   );
