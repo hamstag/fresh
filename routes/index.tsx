@@ -12,6 +12,7 @@ export default function Home() {
         Welcome Hamstag
       </p>
       <p>add new line</p>
+      <p>add more line</p>
       <Counter start={3} />
     </div>
   );
